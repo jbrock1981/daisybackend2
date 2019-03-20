@@ -1,0 +1,15 @@
+body {
+  padding: 50px;
+  font: 14px 'Lucida Grande', Helvetica, Arial, sans-serif;
+}
+
+.btn {
+  max-width: 500px;
+  width: 100%;
+  margin: 30px auto;
+}
+
+.container-fluid {
+  margin: auto;
+  text-align: center;
+}

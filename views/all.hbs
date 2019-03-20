@@ -1,0 +1,8 @@
+<ul class="list-group">
+    {{#each customers}}
+    <a href="/home/customers/{{id}}" class="list-group-item">{{name}}</a>
+    {{/each}}
+</ul>
+<a type="button" class="btn btn-default btn-dark" href="/home/customers/new">
+    New Customer
+</a>
